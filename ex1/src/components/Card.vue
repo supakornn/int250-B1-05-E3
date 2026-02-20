@@ -20,6 +20,7 @@
                     >
                         Get diet and fitness tips in your inbox
                     </h2>
+
                     <p
                         class="max-w-xs my-4 text-xs leading-5 tracking-wide text-center md:text-left"
                     >

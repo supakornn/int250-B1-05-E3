@@ -3,8 +3,8 @@ import Card from "./components/Card.vue";
 </script>
 
 <template>
-    <Card />
-    <div></div>
+  <Card />
+  <div></div>
 </template>
 
 <style scoped></style>
